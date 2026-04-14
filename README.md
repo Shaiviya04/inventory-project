@@ -30,4 +30,6 @@ The main objective of this project is to understand inventory management and app
 
 ## 👩‍🎓 Author
 
-* Your Name
+* ## 👩‍🎓 Author
+- Shaiviya Singh
+- BCA Student
